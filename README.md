@@ -10,19 +10,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![TargetLink](https://img.shields.io/badge/TargetLink-000000?style=flat&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
 
 ---
 
 ## 📦 Featured Projects
 
+- 🔧 [**ha-departures**](https://github.com/alex-jung/ha-departures)  
+  A custom Home Assistant integration to get public transport departures provided by EFA(Elektronische Fahrplanauskunft) endpoints.
+
 - 🔧 [**ha-departures-card**](https://github.com/alex-jung/ha-departures-card)  
   A custom Home Assistant Lovelace card to show public transport departures in a compact and beautiful way.
 
-- ⚙️ Jenkins & Python Automation Framework (WIP)  
-  Internal framework to simplify job execution and reporting for ~100 developers using Jenkins and Windchill.
 
 ---
 
