@@ -16,6 +16,9 @@
 
 ## 📦 Featured Projects
 
+- 🔧 [**apyefa**](https://github.com/alex-jung/apyefa)  
+  Python API for EFA(Elektronische Fahrplanauskunft) async requests.
+
 - 🔧 [**ha-departures**](https://github.com/alex-jung/ha-departures)  
   A custom Home Assistant integration to get public transport departures provided by EFA(Elektronische Fahrplanauskunft) endpoints.
 
