@@ -65,4 +65,4 @@ If you find my work useful or are interested in collaboration:
 
 - ✉️ [GitHub](https://github.com/alex-jung)
 - ✉️ [LinkedIn](https://www.linkedin.com/in/jung-alex)
-- ✉️ Website (_coming soon_)
+- ✉️ [alex-jung.org](https://alex-jung.org)
